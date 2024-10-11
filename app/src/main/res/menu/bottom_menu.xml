@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home" />
+
+    <item
+        android:id="@+id/customise"
+        android:title="Customise Otsu"
+        android:icon="@drawable/settings" />
+
+    <item
+        android:id="@+id/feed"
+        android:title="Feed Otsu"
+        android:icon="@drawable/pet" />
+
+
+    <item
+        android:id="@+id/calendar"
+        android:title="Calendar"
+        android:icon="@drawable/calendar" />
+
+</menu>
