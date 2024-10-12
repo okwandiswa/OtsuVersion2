@@ -53,4 +53,5 @@ class MainActivity : AppCompatActivity() {
         /*commit - applies the changes to the fragment*/
         supportFragmentManager.beginTransaction().replace(R.id.fragment_container_view, fragment).commit()
     }
+
 }
